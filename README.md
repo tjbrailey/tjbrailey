@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 My name is Tom (he/him) and I am a pre-doctoral fellow with J-PAL's Payments and Governance Research Program. I am currently based in San Diego. 
 
@@ -11,4 +11,4 @@ In addition to the links on the left:
 1. [LinkedIn](https://www.linkedin.com/in/tjbrailey)
 2. [OSF](https://osf.io/c9ptf)
 
-Have a great day! 🦜
+Have a great day!
