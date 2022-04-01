@@ -1,10 +1,12 @@
-### Hi there
+### Hi there 🌍
 
-My name is Tom (he/him) and I am a pre-doctoral fellow with J-PAL's Payments and Governance Research Program. I am currently based in San Diego. 
+My name is Tom (he/him) and I am a pre-doctoral fellow with J-PAL's Payments and Governance Research Program. I am a Berkeley Initiative for Transparency in the Social Sciences (BITSS) Catalyst grant recipient.
 
 I am interested in the politics of development, group-based identities, geography, and reproducibility. Feel free to reach out! 
 
-### Contact
+I am currently based in San Diego.
+
+### Contact ☎️
 
 In addition to the links on the left: 
 
