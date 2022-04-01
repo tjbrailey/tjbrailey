@@ -1,6 +1,6 @@
 ### Hi there 🌍
 
-My name is Tom (he/him) and I am a pre-doctoral fellow with J-PAL's Payments and Governance Research Program. I am a Berkeley Initiative for Transparency in the Social Sciences (BITSS) Catalyst grant recipient.
+My name is Tom (he/him) and I am a pre-doctoral fellow with J-PAL's Payments and Governance Research Program. I was a Berkeley Initiative for Transparency in the Social Sciences (BITSS) Catalyst grant recipient in 2021.
 
 I am interested in the politics of development, group-based identities, geography, and reproducibility. Feel free to reach out! 
 
