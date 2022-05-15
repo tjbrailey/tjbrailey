@@ -2,6 +2,8 @@
 
 My name is Tom (he/him) and I am a pre-doctoral fellow with J-PAL's Payments and Governance Research Program. I was a Berkeley Initiative for Transparency in the Social Sciences (BITSS) Catalyst grant recipient in 2021.
 
+In 2022, I will begin my MPhil in comparative government at the University of Oxford.
+
 I am interested in the politics of development, group-based identities, geography, and reproducibility. Feel free to reach out! 
 
 I am currently based in San Diego.
