@@ -13,5 +13,3 @@ I am broadly interested in political institutions and how they account for minor
 In addition to the links on the left: 
 
 1. [OSF](https://osf.io/c9ptf)
-
-Have a great day!
