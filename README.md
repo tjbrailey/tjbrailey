@@ -6,7 +6,7 @@ From 2020 to 2022, I served as a pre-doctoral fellow with J-PAL's [Payments and 
 
 I have also served as a research assistant for the Center for the Study of African Political Economy and as a lab assistant for the [Center for Peace and Security Studies](https://cpass.ucsd.edu/). My CV can be found [here](/tb.pdf).
 
-I am broadly interested in three broad strands of political science: 
+I am broadly interested in three strands of political science: 
 
 - Non-state (and private) actors and the provision of security. 
 
