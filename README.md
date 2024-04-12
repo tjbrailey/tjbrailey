@@ -13,12 +13,3 @@ I am broadly interested in three strands of political science:
 - Diasporic populations and state response. 
 
 - Meta-science and replication.
-
-### Contact ☎️
-
-In addition to the links on the left: 
-
-1. [OSF](https://osf.io/c9ptf)
-2. [LinkedIn](https://www.linkedin.com/in/tjbrailey/)
-3. [Twitter](https://twitter.com/tjbrailey)
-4. [Personal Website](https://tjbrailey.netlify.app/about/)
