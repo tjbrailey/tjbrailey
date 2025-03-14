@@ -1,15 +1,12 @@
-### Hi there 🌍
+My name is Thomas (he/him) and I am an PhD student in Politics at the University of Oxford. I study the outsourcing of security by the state to non-state actors.
 
-My name is Thomas (he/him) and I am an MPhil student in Comparative Government at the University of Oxford.
+In 2024, I received my MPhil in Comparative Government from the University of Oxford. My thesis was titled “Conceptualising Non-State Security”. It focused on understanding the different types of private military and security company and their effects on conflict termination.
 
-From 2020 to 2022, I served as a pre-doctoral fellow with J-PAL's [Payments and Governance Research Program](https://sites.google.com/ucsd.edu/pgrp/home?authuser=0). I received a Bachelor of Science in political science and data analytics from UC San Diego in 2020. 
+From 2020 to 2022, I served as a pre-doctoral fellow with J-PAL’s Payments and Governance Research Program. I received a Bachelor of Science in political science and data analytics from UC San Diego in 2020.
 
-I have also served as a research assistant for the [Center for the Study of African Political Economy](https://quote.ucsd.edu/csape/) and as a lab assistant for the [Center for Peace and Security Studies](https://cpass.ucsd.edu/). My CV can be found [here](https://tjbrailey.netlify.app/tb.pdf).
+I have also served as a research assistant for the Center for the Study of African Political Economy and as a lab assistant for the Center for Peace and Security Studies.
 
-I am broadly interested in three strands of political science: 
-
-- Non-state (and private) actors and the provision of security. 
-
-- Diasporic populations and state response. 
-
+I am broadly interested in three strands of political science:
+- Non-state (and private) actors and the provision of security.
+- State capacity and state-building.
 - Meta-science and replication.
