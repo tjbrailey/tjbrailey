@@ -11,4 +11,4 @@ I am broadly interested in three strands of political science:
 - State capacity and state-building.
 - Meta-science and replication.
 
-[I can be reached at any of these links.](linktr.ee/tjbrailey)
+[I can be reached at any of these links.](https://linktr.ee/tjbrailey)
