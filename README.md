@@ -1,5 +1,9 @@
 My name is Thomas (he/him) and I am an PhD student in Politics at the University of Oxford. I study the outsourcing of security by the state to non-state actors.
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=tjbrailey)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjbrailey&stats_format=bytes)
+
+
 In 2024, I received my MPhil in Comparative Government from the University of Oxford. My thesis was titled “Conceptualising Non-State Security”. It focused on understanding the different types of private military and security company and their effects on conflict termination.
 
 From 2020 to 2022, I served as a pre-doctoral fellow with J-PAL’s Payments and Governance Research Program. I received a Bachelor of Science in political science and data analytics from UC San Diego in 2020.
