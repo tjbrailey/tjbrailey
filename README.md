@@ -1,6 +1,6 @@
 My name is Thomas (he/him) and I am an PhD student in Politics at the University of Oxford. I study the outsourcing of security by the state to non-state actors.
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=tjbrailey)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Stats](https://github-readme-stats.vercel.app/api?username=tjbrailey)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjbrailey&stats_format=bytes)
 
 
